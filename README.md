@@ -1,11 +1,11 @@
-<h1 align="center">DAISYX MUSIC V6.0 🎵</h1>
+<h1 align="center">DESTROYER MUSIC V6.0 🎵</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [PYTGCALLS](https://github.com/pytgcalls/pytgcalls)
-### Available on telegram as [@DaisyXbot](https://t.me/daisyxbot)
+### Available on telegram as [https://t.me/DESTROYED_HOME](https://t.me/DESTROYED_HOME)
 
 <p align="center">
-  <img src="https://telegra.ph/file/dd04b1968f1bc1169d162.jpg">
+  <img src="https://te.legra.ph/file/0950961829571c518df94.jpg">
 </p>
 
 <h2> Features 🔥 </h2>
@@ -139,8 +139,8 @@ If you donlt like to play in linked channel:
 
 ## Copyright & License 👮
 
- - Copyright (C) 2020-present by [TeamDaisyX](github.com/teamdaisyx) ❤️️
+ - Copyright (C) 2020-present by [DESTROYER](github.com/tsoking) ❤️️
  - Licensed under the terms of the [MIT License](https://github.com/TeamDaisyX/DaisyXMusic/blob/master/LICENSE)
     
-DaisyXMusic is Free Software: You can use, study share and improve it at your will. Specifically you can redistribute and/or modify it under the terms of the MIT License as published by the Free Software Foundation.    
-## Made with ♥️ by [TeamDaisyX](https://github.com/TeamDaisyX)
+DESTROYER is Free Software: You can use, study share and improve it at your will. Specifically you can redistribute and/or modify it under the terms of the MIT License as published by the Free Software Foundation.    
+## Made with ♥️ by [DESTROYER](https://github.com/tsoking)
